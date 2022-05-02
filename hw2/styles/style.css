@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    width: 600px;
+    margin: auto;
+    border: 1px solid red;
+}
+img{
+    width: 300px;
+
+}
+h1, h2{
+    font-family: 'Tapestry', cursive;
+    color: azure;
+
+}
+p, li{
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px;
+
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-image: url(https://cdn.bfm.ru/news/maindocumentphoto/2019/04/29/mstiteli.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 1px solid yellow ;
+    
+}
+ul p{
+    font-family: 'Tapestry', cursive;
+}
